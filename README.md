@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Matheus Rodrigues
 
+
+- 🔭 I’m currently working on RCCBRASIL
+- 🌱 I’m currently learning ReactNative and Javascript
 <!--
 **matheusrodrisantos/matheusrodrisantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
