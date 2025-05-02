@@ -17,7 +17,7 @@
 - 💻 Desenvolvedor focado em **PHP Symfony, APIs RESTful** e boas práticas.
 - 📚 Estudando **arquitetura de software, Domain-Driven Design e Docker**.
 - 🎯 Gosto de criar sistemas modulares, testáveis e fáceis de manter.
-- 🎥 Criador de conteúdo sobre programação no YouTube [@seu-canal](https://youtube.com/@seu-canal).
+- 🎥 Criador de conteúdo sobre programação no YouTube [@seu-canal](https://www.youtube.com/@bora_ser_ti).
 
 ---
 
@@ -25,7 +25,9 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-v12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -43,11 +45,11 @@
 
 ### 🎯 Últimos Projetos
 
-- 🔗 [EventRccs API](https://github.com/seu-usuario/eventrccs-api) – Sistema de eventos modular em Symfony.
-- 🔗 [docker-dev-env](https://github.com/seu-usuario/docker-dev-env) – Ambiente de desenvolvimento PHP com Docker.
+- 🔗 [EventRccs API](https://github.com/matheusrodrisantos/symfony-strategy) – Sistema de eventos modular em Symfony, usando o padrão de projeto Strategy.
+- 🔗 [Certidao Catolica](https://github.com/matheusrodrisantos/certidaocatolica) – Sistema de solicitações de certidões católicas em paróquias e dioceses
 
 ---
 
 ### ☕ Vamos conversar?
 
-Se quiser bater um papo sobre arquitetura, Symfony, carreira ou qualquer outro assunto técnico, me chama no [LinkedIn](https://www.linkedin.com/in/seu-perfil) ou [envie um e-mail](mailto:matheus.rodrisantos@outlook.com)! 🚀
+Se quiser bater um papo sobre arquitetura, Symfony, Larave, carreira ou qualquer outro assunto técnico, me chama no [LinkedIn](https://www.linkedin.com/in/matheus-rodrigues-888980119/) ou [envie um e-mail](mailto:matheus.rodrisantos@outlook.com)! 🚀
